@@ -269,10 +269,10 @@ Main class:
         } else {
             System.out.println("You are a disgrace to the Maze Runner’s community.");
         }
-        ```
+      
         _____________________________________________________________________________________________________________________
         Movement class:
-        ```java
+       
         public class Movement {
 
     int x;
