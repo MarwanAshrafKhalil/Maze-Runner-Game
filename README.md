@@ -1,6 +1,6 @@
 # Maze-Runner-Game
 Hello,This is Maze Runner Game written in JAVA,you can clone the project or check the code mentioned below,If you have any enquiries feel free to contact me:
-LinkedIn: www.linkedin.com/in/marwan-ashraf
+LinkedIn: www.linkedin.com/in/Marwan-Mahmoud97
 Email: marwan.a.k.1997@gmail.com
 ___________________________________________________________________________________________________________________________________
 Game Description:
