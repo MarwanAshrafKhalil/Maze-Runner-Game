@@ -17,6 +17,7 @@ Crazy ideas:
 2.	Johnny can collect  bonus items (e.g. lantern – to increase his visibility to 4 units)
 ___________________________________________________________________________________________________________________________________
 Main class:
+```java
  Scanner s = new Scanner(System.in);
         Random r = new Random();
         char key;
@@ -268,8 +269,10 @@ Main class:
         } else {
             System.out.println("You are a disgrace to the Maze Runner’s community.");
         }
+        ```
         _____________________________________________________________________________________________________________________
         Movement class:
+        ```java
         public class Movement {
 
     int x;
@@ -804,3 +807,4 @@ else if ((R1 != 1) && (R2 != 1)&& (bonusChecker>=1) &&(R3!=1)&& (i == r41) && (j
         }
     }
 }
+```
