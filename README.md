@@ -4,11 +4,11 @@ LinkedIn: www.linkedin.com/in/Marwan-Mahmoud97
 Email: marwan.a.k.1997@gmail.com
 ___________________________________________________________________________________________________________________________________
 Game Description:
-Player: J 
-Coins: @
-Bonus: $
-Walls: |,-
-Exit: E
+Player: J <br />
+Coins: @ <br />
+Bonus: $ <br />
+Walls: |,- <br />
+Exit: E <br />
 Requirements:
 1.	generate a maze of size 20 x 20.
 2.	The maze will always have an exit, “E”, to escape the maze.
