@@ -9,7 +9,7 @@ Coins: @ <br />
 Bonus: $ <br />
 Walls: |,- <br />
 Exit: E <br />
-Requirements:
+Requirements: <br />
 1.	generate a maze of size 20 x 20.
 2.	The maze will always have an exit, “E”, to escape the maze.
 3.	You must display whole maze, other than what is visible by Johnny (2 units), all must be blacked out with “#”. (Common sense: Johnny     cannot see through walls)
@@ -22,12 +22,12 @@ Crazy ideas:
 2.	Johnny can collect  bonus items (e.g. lantern – to increase his visibility to 4 units)
 ___________________________________________________________________________________________________________________________________
 Game (output):
-Enter the dimension of the maze(>=20): 20
+Enter the dimension of the maze(>=20): 20 <br />
 #################### <br />
 #################### <br />
 #################### <br />
 ####-############### <br />
-###|J |############# 
+###|J |############# <br />
 #### ############### <br />      
 ####@############### <br />
 #################### <br />
