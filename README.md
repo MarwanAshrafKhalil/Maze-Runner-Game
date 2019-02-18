@@ -44,4 +44,5 @@ Enter the dimension of the maze(>=20): 20
 ####################
 ####################
 Collect 59 coins to win!
-Enter your next move (W, A, S, D): 
+Enter your next move (W, A, S, D):
+
