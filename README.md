@@ -22,8 +22,8 @@ Crazy ideas:
 1.	An algorithm to generate the N x N maze depending on user input for size (N >= 20)
 2.	Johnny can collect  bonus items (e.g. lantern – to increase his visibility to 4 units)
 ___________________________________________________________________________________________________________________________________
-<pre>
 Game (output):
+<pre>
 Enter the dimension of the maze(>=20): 20 <br />
 
 ####################
